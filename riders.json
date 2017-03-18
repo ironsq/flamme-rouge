@@ -1,0 +1,36 @@
+{
+  "riders": {
+    "0": {
+      "name": "Gibert",
+      "nation": "Belgium",
+    },
+    "1": {
+      "name": "Boonan",
+      "nation": "Belgium",
+    },
+    "2": {
+      "name": "Pinot",
+      "nation": "France",
+    },
+    "3": {
+      "name": "Demare",
+      "nation": "France",
+    },
+    "4": {
+      "name": "Gasparotto",
+      "nation": "Italy",
+    },
+    "5": {
+      "name": "Aru",
+      "nation": "Italy",
+    },
+    "6": {
+      "name": "Boasson Hage",
+      "nation": "Norway",
+    },
+    "7": {
+      "name": "Kristoff",
+      "nation": "Norway",
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "riders": {
+    "Boonan": {
+      "nation": "Belgium",
+      "points": 0
+    },
+    "Gilbert": {
+      "nation": "Belgium",
+      "points": 0
+    },
+    "Démare": {
+      "nation": "France",
+      "points": 0
+    },
+    "Bardet": {
+      "nation": "France",
+      "points": 0
+    },
+    "Aru": {
+      "nation": "Italy",
+      "points": 0
+    },
+    "Fellatio": {
+      "nation": "Italy",
+      "points": 0
+    },
+    "Fistoff": {
+      "nation": "Norway",
+      "points": 0
+    },
+    "Boasson Hage": {
+      "nation": "Norway",
+      "points": 0
+    }
+
+  },
+  "stages": {"0": "Dräparen", "1": "Mörsaren", "2": "Bögknäckaren", "3": "Dopinggetsmässig"}
+
+}

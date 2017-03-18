@@ -1,0 +1,42 @@
+{
+  "riders": {
+    "0": {"name": "Boonan", "nation": "Belgium"},
+    "1": {"name": "Gilbert", "nation": "Belgium"},
+    "2": {"name": "Demare", "nation": "France"},
+    "3": {"name": "Pinot", "nation": "France"},
+    "4": {"name": "Aru", "nation": "Italy"},
+    "5": {"name": "Gasparotto", "nation": "Italy"},
+    "6": {"name": "Boasson Hage", "nation": "Norway"},
+    "7": {"name": "Kristoff", "nation": "Norway"}
+  },
+  "stages": {
+    "0": {
+        "name": "Stage 1",
+        "score": {
+          "sprint": {"Boonan": 3, "Gasparotto": 2, "Demare": 1},
+          "classification": {"Boasson Hage":5, "Boonan": 3, "Gasparotto": 2, "Demare": 1}
+        }
+    },
+    "1": {
+      "name": "Stage 2",
+      "score": {
+        "sprint": {},
+        "classification": {}
+      }
+    },
+    "2": {
+      "name": "Stage 3",
+      "score": {
+        "sprint": {},
+        "classification": {}
+      }
+    },
+    "3": {
+      "name": "Stage 4",
+      "score": {
+        "sprint": {},
+        "classification": {}
+      }
+    }
+  }
+}

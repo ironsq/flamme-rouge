@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+input {
+  height: 40px;
+}
+
+select {
+  height: 40px;
+}

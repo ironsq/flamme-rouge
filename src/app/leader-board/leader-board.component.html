@@ -1,0 +1,23 @@
+<h1>Leader board</h1>
+<div class="row">
+  <div class="col-md-8">
+    <table id="summaryTable" class="table table-striped">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Nation</th>
+        <th>Points</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let rider of riders | async">
+        <td>{{rider.$key}}</td>
+        <td>{{rider.nation}}</td>
+        <td>{{rider.points}}</td>
+      </tr>
+      </tbody>
+    </table>
+    <hr/>
+</div>
+
+
